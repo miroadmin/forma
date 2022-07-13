@@ -20,6 +20,7 @@ const MariaDB = () => {
     const data = useFetch("http://localhost:4010/ucet");
     // if (loading) return <h1> LOADING ...</h1>
     // if (error) console.log('Chyba',error);
+    //test
 
 
     return (
